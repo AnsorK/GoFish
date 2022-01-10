@@ -4,7 +4,7 @@ Java GUI text-based application to play **Go Fish** against your computer. Run t
 This application was made as practice with Java Swing components and data.  
 [Go-Fish rules](https://bicyclecards.com/how-to-play/go-fish/)
 
-#### How to run
+## How to run
 
 Make sure you have Java, an IDE, and git installed on your machine
 - Clone the repository into a destination of your choosing:
@@ -14,7 +14,7 @@ Make sure you have Java, an IDE, and git installed on your machine
 ```
 - Run the Java application in your IDE!  
 
-#### How it works
+## How it works
 
 - ☕ Jframe is used for all the graphical components  
 
